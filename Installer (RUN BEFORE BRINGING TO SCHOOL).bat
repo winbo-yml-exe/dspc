@@ -14,5 +14,6 @@ md "C:\Program Files\DSPC"
 copy *.bat "C:\Program Files\DSPC"
 
 echo Please check if files exist in C:\Program Files\DSPC.
-echo If they exist, 
+echo If they do, make a shortcut to that path, if they are missing, rerun the script.
+echo You can now safely close this program.
 pause
