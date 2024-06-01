@@ -1,6 +1,6 @@
 # Welcome to DSPC!
 
-DSPC is a series of destructable scripts written in BAT made to destroy ~~school~~ PCs or laptops.
+DSPC is a series of destructable scripts written in BAT made to destroy ~~school~~ PCs or laptops. YOU WILL NEED ADMIN PERMISSIONS TO USE THIS.
 
 Download source code to install.
 
