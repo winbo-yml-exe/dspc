@@ -15,4 +15,3 @@ Delete C:\Program Files\DSPC to remove the app and to upgrade delete the old ver
 - `Overload RAM with CMD.bat` - No admin required - Windows get spammed lol
 
 ## I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED WITH THIS TOOL. USE AT YOUR OWN RISK.
-## :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
